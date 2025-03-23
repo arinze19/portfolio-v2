@@ -5,10 +5,4 @@ dateStart: "2023-06-01"
 dateEnd: "Present"
 ---
 
-1. Implement timezone support for mobile and web app, This enabled vendors on the platform accept
-bookings from customers in a different time zone further extending the reach of the vendors
-2. Refactor calendar component to utilize rxjs to listen to user events, this optimization brought about a
-better experience for our vendors who were on the verge of churn due to lag while using the calendar
-3. Implement frontend strategy to support translations in multiple languages (Arabic & English) for mobile
-and web app, this increased our user base in Saudi Arabia and Qatar by 73% and 45% respectively as a
-majority of these users were non-english speaking
+For this role, I was responsible for leading the development of a booking platform for service providers in the beauty and wellness industry. I worked closely with the product team to understand the requirements and pain points of our users, and designed a solution that improved the booking experience for both vendors and customers. I implemented timezone support for the platform, enabling vendors to accept bookings from customers in different time zones. I also refactored the calendar component to utilize rxjs for better performance and user experience. Additionally, I implemented a frontend strategy to support translations in multiple languages (Arabic & English) for the mobile and web app, increasing our user base in Saudi Arabia and Qatar by 73% and 45% respectively.

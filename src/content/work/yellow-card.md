@@ -5,6 +5,4 @@ dateStart: "2019-10-01"
 dateEnd: "2020-08-31"
 ---
 
-1. Implemented multilingual support (French & English) for a web application, enhancing accessibility and user experience.
-2. Managed and curated the application's API documentation, ensuring clarity and ease of use for developers. Assisted in onboarding new developers, providing guidance on API integration and best practices.
-3. Updated outdated code to modernize tech stack, resulting in faster load times and a more responsive user experience.
+Worked as an intern where I was responsible for developing and maintaining the frontend codebase of the platform and also onboarding developers using our API docs. I worked closely with the design team to implement new features and improve the user experience. I also collaborated with the backend team to integrate new APIs and improve the performance of the platform. I gained valuable experience working with modern frontend technologies and tools such as Vue, Websockets, and Webpack.
