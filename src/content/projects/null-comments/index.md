@@ -2,7 +2,6 @@
 title: "Null Comments"
 description: "Chrome extension to enhance your twitter experience"
 date: "Jan 22 2023"
-demoURL: "https://github.com/arinze19/null-comments"
 repoURL: "https://github.com/arinze19/null-comments"
 ---
 
