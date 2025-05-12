@@ -5,5 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: "https://arinzeobi.com",
+  base: "/",
   integrations: [mdx(), sitemap(), tailwind()],
 });
